@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Demonhellstorm
-- 👀 I’m interested in WEB Dev , Game Dev, tech, Photography,Foody!!!!
+- 👀 I’m interested in WEB Dev,tech,Photography,Foody!!!!
 - 🌱 I’m currently learning Web devlopment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta id = himanshuu003
+- 📫 How to reach me insta id = This_side_hp
 
 <!---
 Demonhellstorm/Demonhellstorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
